@@ -41,6 +41,6 @@ Esto puede cambiar en cada computadora porque alguna te llegara a pedir descarga
 
 
 
-<img width="1047" height="657" alt="image" src="https://github.com/user-attachments/assets/2232387a-86d9-408c-8eed-e5b6268f0299" />
-<img width="1065" height="717" alt="image" src="https://github.com/user-attachments/assets/5ed0736c-8815-4569-ab38-0f63db25e791" />
 
+<img width="1065" height="717" alt="image" src="https://github.com/user-attachments/assets/5ed0736c-8815-4569-ab38-0f63db25e791" />
+<img width="1047" height="657" alt="image" src="https://github.com/user-attachments/assets/2232387a-86d9-408c-8eed-e5b6268f0299" />
