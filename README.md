@@ -33,3 +33,5 @@ En la computadora de la escuela descargamos la version mas reciente en este caso
 Esto puede cambiar en cada computadora porque alguna te llegara a pedir descargalo desde windows shell todo los programas y herramientas a utilizar
 
 <img width="1267" height="718" alt="image" src="https://github.com/user-attachments/assets/3e713559-681d-4588-907d-aaf5b033de75" />
+<img width="1270" height="706" alt="image" src="https://github.com/user-attachments/assets/38c04a22-2592-49d7-aeb9-326bdd54bb94" />
+<img width="1262" height="712" alt="image" src="https://github.com/user-attachments/assets/bb6d710c-ff6b-4ade-bb75-cab1b628b9c3" />
