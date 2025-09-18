@@ -35,3 +35,12 @@ Esto puede cambiar en cada computadora porque alguna te llegara a pedir descarga
 <img width="1267" height="718" alt="image" src="https://github.com/user-attachments/assets/3e713559-681d-4588-907d-aaf5b033de75" />
 <img width="1270" height="706" alt="image" src="https://github.com/user-attachments/assets/38c04a22-2592-49d7-aeb9-326bdd54bb94" />
 <img width="1262" height="712" alt="image" src="https://github.com/user-attachments/assets/bb6d710c-ff6b-4ade-bb75-cab1b628b9c3" />
+
+
+
+
+
+
+<img width="1047" height="657" alt="image" src="https://github.com/user-attachments/assets/2232387a-86d9-408c-8eed-e5b6268f0299" />
+<img width="1065" height="717" alt="image" src="https://github.com/user-attachments/assets/5ed0736c-8815-4569-ab38-0f63db25e791" />
+
